@@ -85,3 +85,7 @@ jupyter notebook notebooks/patient_pathways.ipynb
 
 - van der Aalst, W. M. P. *Process Mining: Discovery, Conformance and Enhancement of Business Processes*. Springer. https://doi.org/10.1007/978-3-642-19345-3
 - van Zelst, S. J., & Leemans, S. J. J. (2020). Translating workflow nets to process trees: an algorithmic approach. *Algorithms*, 13(11), 279. https://doi.org/10.3390/a13110279
+
+## License
+
+© 2026 Roland Keszi. This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/): you may share and adapt it for non-commercial purposes, provided you credit the author (Roland Keszi) and link to this repository. Third-party datasets keep their own licenses. See [`LICENSE`](LICENSE).
